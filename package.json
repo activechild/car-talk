@@ -1,6 +1,9 @@
 {
   "name": "Nova",
   "version": "0.0.0",
+  "engines":{
+    "node": "0.12.x"
+  },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.2",
     "classnames": "^2.2.3",
